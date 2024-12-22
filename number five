@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+<title>HTML, CSS and JavaScript demo</title>
+</head>
+<body>
+<!-- Start your code here -->
+<img class="tint" src="https://cdn.culture.ru/images/f44472f4-3dc0-534d-8415-54892d1c8216"width="800 px"/>
+  <div class="centred"> 
+ <form>
+Название: <input type = "text" class = "test1" ><br><br>
+Автор: <input type = "text" class = "test1" ><br><br>
+Главные герои: <input type = "text" class = "test1" ><br><br>
+Преимущества: <input type = "text" class = "test1" ><br><br>
+Недостатки: <input type = "text" class = "test1" ><br><br>
+Вывод: <input type = "text" class = "test1" ><br><br><br>
+</form>
+  <button class="test2">Отправить</button>
+    </div>
+
+<!-- End your code here -->
+</body>
+</html>
